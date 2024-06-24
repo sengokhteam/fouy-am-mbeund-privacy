@@ -1,46 +1,46 @@
-Privacy Policy  
+Politique de confidentialité  
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at SkbGroup, how SkbGroup uses it, and what choices you have.
-SkbGroup built the Fouy am mbeund app as a free app. This SERVICE is provided by SkbGroup at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons chez SkbGroup, comment SkbGroup les utilise et quels sont les choix qui s'offrent à vous.
+SkbGroup a conçu l'application Fouy am mbeund comme une application gratuite. Ce SERVICE est fourni par SkbGroup gratuitement et est destiné à être utilisé tel quel.
+Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous recueillons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec quiconque, sauf dans les cas décrits dans la présente politique de confidentialité.  
+Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles sur notre site web, sauf définition contraire dans la présente politique de confidentialité.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+Collecte et utilisation des informations ###  
+Pour une meilleure expérience lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter, le nom de l'utilisateur, l'adresse électronique, le sexe, la localisation, les photos. Les informations que nous demandons seront conservées par nous et utilisées comme décrit dans cette politique de confidentialité.  
+L'application utilise des services tiers qui peuvent collecter des informations permettant de vous identifier. 
 
 ### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Les cookies sont des fichiers contenant une petite quantité de données qui sont généralement utilisées comme identifiant unique anonyme. Ils sont envoyés à votre navigateur par le site web que vous visitez et sont stockés dans la mémoire interne de votre appareil.  
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Ce service n'utilise pas explicitement ces "cookies". Cependant, l'application peut utiliser des codes et des bibliothèques de tiers qui utilisent des "cookies" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies, et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, il se peut que vous ne puissiez pas utiliser certaines parties de ce service.  
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+### Informations de localisation  
+Certains services peuvent utiliser des informations de localisation transmises par les téléphones portables des utilisateurs. Nous n'utilisons ces informations que dans le cadre nécessaire au service désigné.  
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Informations sur l'appareil  
+Dans certains cas, nous collectons des informations à partir de votre appareil. Ces informations seront utilisées pour fournir un meilleur service et pour prévenir les actes frauduleux. En outre, ces informations n'incluront pas d'éléments permettant d'identifier l'utilisateur individuel.  
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+### Fournisseurs de services  
+Nous pouvons faire appel à des sociétés tierces et à des individus pour les raisons suivantes :  
+* Pour faciliter notre service ;
+* Pour fournir le service en notre nom ;
+* Pour fournir des services liés au service ; ou
+* Pour nous aider à analyser la façon dont notre service est utilisé.  
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+Nous souhaitons informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison en est l'exécution des tâches qui leur sont assignées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins.  
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### Sécurité  
+Nous apprécions la confiance que vous nous accordez en nous fournissant vos informations personnelles et nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur l'internet ou de stockage électronique n'est sûre et fiable à 100 % et que nous ne pouvons pas garantir une sécurité absolue.  
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### Vie privée des enfants  
+Ces services ne s'adressent pas aux personnes âgées de moins de 13 ans. Nous ne recueillons pas sciemment d'informations personnelles identifiables auprès d'enfants de moins de 13 ans. Si nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires.  
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### Modifications de la présente politique de confidentialité  
+Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Il vous est donc conseillé de consulter régulièrement cette page pour prendre connaissance des éventuelles modifications. Nous vous informerons de toute modification en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement après leur publication sur cette page.  
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: sengokhteam@gmail.com
+### Nous contacter  
+Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.  
+Informations de contact :  
+Courriel : sengokhteam@gmail.com
